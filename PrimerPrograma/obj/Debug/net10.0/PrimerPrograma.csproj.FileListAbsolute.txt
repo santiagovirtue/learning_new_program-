@@ -1,0 +1,15 @@
+/workspaces/learning_new_program-/PrimerPrograma/bin/Debug/net10.0/PrimerPrograma
+/workspaces/learning_new_program-/PrimerPrograma/bin/Debug/net10.0/PrimerPrograma.deps.json
+/workspaces/learning_new_program-/PrimerPrograma/bin/Debug/net10.0/PrimerPrograma.runtimeconfig.json
+/workspaces/learning_new_program-/PrimerPrograma/bin/Debug/net10.0/PrimerPrograma.dll
+/workspaces/learning_new_program-/PrimerPrograma/bin/Debug/net10.0/PrimerPrograma.pdb
+/workspaces/learning_new_program-/PrimerPrograma/obj/Debug/net10.0/PrimerPrograma.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/learning_new_program-/PrimerPrograma/obj/Debug/net10.0/PrimerPrograma.AssemblyInfoInputs.cache
+/workspaces/learning_new_program-/PrimerPrograma/obj/Debug/net10.0/PrimerPrograma.AssemblyInfo.cs
+/workspaces/learning_new_program-/PrimerPrograma/obj/Debug/net10.0/PrimerPrograma.csproj.CoreCompileInputs.cache
+/workspaces/learning_new_program-/PrimerPrograma/obj/Debug/net10.0/PrimerPrograma.sourcelink.json
+/workspaces/learning_new_program-/PrimerPrograma/obj/Debug/net10.0/PrimerPrograma.dll
+/workspaces/learning_new_program-/PrimerPrograma/obj/Debug/net10.0/refint/PrimerPrograma.dll
+/workspaces/learning_new_program-/PrimerPrograma/obj/Debug/net10.0/PrimerPrograma.pdb
+/workspaces/learning_new_program-/PrimerPrograma/obj/Debug/net10.0/PrimerPrograma.genruntimeconfig.cache
+/workspaces/learning_new_program-/PrimerPrograma/obj/Debug/net10.0/ref/PrimerPrograma.dll
